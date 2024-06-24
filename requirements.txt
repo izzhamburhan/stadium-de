@@ -51,6 +51,8 @@ Flask-SQLAlchemy==2.5.1
 Flask-WTF==1.2.1
 frozenlist==1.4.1
 fsspec==2024.6.0
+geographiclib==2.0
+geopy==2.4.1
 google-re2==1.1.20240601
 googleapis-common-protos==1.63.1
 greenlet==3.0.3
@@ -83,7 +85,7 @@ mdurl==0.1.2
 methodtools==0.4.7
 more-itertools==10.3.0
 multidict==6.0.5
-numpy==2.0.0
+numpy==1.24.3
 opentelemetry-api==1.25.0
 opentelemetry-exporter-otlp==1.25.0
 opentelemetry-exporter-otlp-proto-common==1.25.0
@@ -94,7 +96,7 @@ opentelemetry-sdk==1.25.0
 opentelemetry-semantic-conventions==0.46b0
 ordered-set==4.1.0
 packaging==24.1
-pandas==2.2.2
+pandas==1.5.3
 pathspec==0.12.1
 pendulum==3.0.0
 pluggy==1.5.0
